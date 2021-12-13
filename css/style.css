@@ -1,0 +1,17 @@
+ /* selectors class selector-id selector , tag selector */
+
+
+/* class selector */
+.ida-color{
+   font-size: 20px;color:#006d77;background-color: #e9c46a;
+padding: 20px;margin:12px;  border-radius: 8px;
+}
+/* ID selector */
+#ida-color {
+   font-size: 20px;color:#006d77;background-color: #e9c46a;
+padding: 20px;margin:12px;  border-radius: 8px;
+}
+
+.ida-text{
+    color:yellow;
+}
